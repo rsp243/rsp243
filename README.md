@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reshetov Semjon</h1>
 <h3 align="center">Software Engineering ITMO Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rsp243&label=Profile%20views&color=0e75b6&style=flat" alt="rsp243" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rsp243&label=Profile%20views&color=0e75b6&style=flat" alt="rsp243 contribution graph" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <h4 align="left">
@@ -20,3 +20,4 @@
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> </p>
 
 <p align="left"> <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rsp243&theme=tokyonight"/></p>
+<p align="left"><img src="https://streak-stats.demolab.com?user=rsp243&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=600" alt="rsp streak stats" /></p>
