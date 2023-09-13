@@ -20,3 +20,6 @@
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> </p>
 
 <p align="left"> <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rsp243&theme=tokyonight"/></p>
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rsp243&theme=tokyonight&hide_border=true&card_width=700)](https://git.io/streak-stats)
